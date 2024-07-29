@@ -4,7 +4,7 @@ be indexable by search engines and social networks.
 
 ## Integration in the configuration file
 
-Integrate the following lines in the configuration file and deplace 
+Integrate the following lines in the configuration file and replace 
 `<TOKEN_SEO4AJAX>` with the site token in SEO4Ajax (e.g. f594d3367b818ecefe28e9caba24fe16)
 
 ```
